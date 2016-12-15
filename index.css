@@ -1,1 +1,9 @@
-
+body {
+  font: 1em "Hoefler Text", Caslon, serif;
+  background-color: yellow;
+}
+article {
+  border-radius: 1em;
+  background-color: orange;
+  color: black;
+}
