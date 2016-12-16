@@ -18,7 +18,7 @@ nav ul {
   list-style-type: none;
 }
 nav ul a {
-  position: absolute;
+  position: relative;
 }
 nav ul a:nth-child(1) {
   left: 15%;
