@@ -2,6 +2,9 @@ body {
   font: 1em "Hoefler Text", Caslon, Mirza, Merriweather, "PT Serif", Georgia, serif;
   background-color: yellow;
 }
+h1, h2, h3 {
+  text-align: center;
+}
 header {
   border: 0.2em solid black;
   border-radius: 1em;
@@ -19,6 +22,7 @@ nav ul {
 }
 nav ul a {
   position: relative;
+  font-size: 1.2em;
 }
 nav ul a:nth-child(1) {
   left: 15%;
