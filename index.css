@@ -2,6 +2,15 @@ body {
   font: 1em "Hoefler Text", Caslon, serif;
   background-color: yellow;
 }
+nav {
+  border: 0.2em solid black;
+  border-radius: 1em;
+  background-color: red;
+  color: black;
+}
+nav ul {
+  list-style-type: none;
+}
 article {
   border: 0.2em solid black;
   border-radius: 1em;
