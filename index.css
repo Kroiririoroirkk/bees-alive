@@ -2,6 +2,12 @@ body {
   font: 1em "Hoefler Text", Caslon, serif;
   background-color: yellow;
 }
+header {
+  border: 0.2em solid black;
+  border-radius: 1em;
+  background-color: lightgray;
+  color: black;
+}
 nav {
   border: 0.2em solid black;
   border-radius: 1em;
