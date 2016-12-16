@@ -5,13 +5,13 @@ body {
 header {
   border: 0.2em solid black;
   border-radius: 1em;
-  background-color: gold;
+  background-color: darkorange;
   color: black;
 }
 nav {
   border: 0.2em solid black;
   border-radius: 1em;
-  background-color: red;
+  background-color: orange;
   color: black;
 }
 nav ul {
@@ -39,6 +39,6 @@ a {
 article {
   border: 0.2em solid black;
   border-radius: 1em;
-  background-color: orange;
+  background-color: gold
   color: black;
 }
