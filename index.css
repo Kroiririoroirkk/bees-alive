@@ -20,16 +20,16 @@ nav ul {
 nav ul a {
   position: absolute;
 }
-nav ul:nth-child(1) {
+nav ul a:nth-child(1) {
   left: 15%;
 }
-nav ul:nth-child(2) {
+nav ul a:nth-child(2) {
   left: 40%;
 }
-nav ul:nth-child(3) {
+nav ul a:nth-child(3) {
   left: 65%;
 }
-nav ul:nth-child(4) {
+nav ul a:nth-child(4) {
   left: 90%;
 }
 a {
