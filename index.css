@@ -7,24 +7,23 @@ h1, h2, h5 {
 }
 header {
   border: 0.2em solid black;
-  border-radius: 1em;
   background-color: darkorange;
   color: black;
 }
 nav {
   border: 0.2em solid black;
-  border-radius: 1em;
   background-color: orange;
   color: black;
 }
 nav div {
+  border: 0.1em solid black;
+  background-color
   display: inline-block;
   font-size: 1.2em;
   width: 25%;
 }
 article {
   border: 0.2em solid black;
-  border-radius: 1em;
   background-color: gold
   color: black;
 }
