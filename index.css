@@ -17,9 +17,13 @@ nav {
 }
 nav div {
   border: 0.1em solid black;
-  display: inline;
-  font-size: 1.2em;
-  width: 25%;
+  display: inline-block;
+  font-size: 0.8em;
+  width: 20%;
+  text-align: center;
+}
+nav div:hover {
+  font-weight: bold;
 }
 article {
   border: 0.2em solid black;
