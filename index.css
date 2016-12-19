@@ -20,20 +20,20 @@ nav {
 nav ul {
   list-style-type: none;
 }
-nav ul a {
+nav ul li a {
   position: relative;
   font-size: 1.2em;
 }
-nav ul a:nth-child(1) {
+nav ul li:nth-child(1) a {
   left: 15%;
 }
-nav ul a:nth-child(2) {
+nav ul li:nth-child(2) a {
   left: 40%;
 }
-nav ul a:nth-child(3) {
+nav ul li:nth-child(3) a {
   left: 65%;
 }
-nav ul a:nth-child(4) {
+nav ul li:nth-child(4) a {
   left: 90%;
 }
 a {
