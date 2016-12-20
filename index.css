@@ -36,3 +36,10 @@ article div {
   visibility: hidden;
   display: none;
 }
+
+footer {
+  border: 0.2em solid black;
+  background-color: yellow;
+  color: black;
+  margin: 1em;
+}
