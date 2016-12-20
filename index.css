@@ -1,6 +1,6 @@
 body {
   font: 1em "Hoefler Text", Caslon, Mirza, Merriweather, "PT Serif", Georgia, serif;
-  background-color: yellow;
+  background-image: url("hexagons.jpg");
 }
 h1, h2, h5 {
   text-align: center;
