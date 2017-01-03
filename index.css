@@ -42,4 +42,26 @@ footer {
   background-color: yellow;
   color: black;
   margin: 1em;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer a:link {
+  color: red;
+}
+
+footer a:visited {
+  color: purple;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer a:active {
+  color: purple;
+  text-decoration: underline;
 }
