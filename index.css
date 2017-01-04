@@ -34,6 +34,11 @@ article {
 }
 article div {
   display: none;
+  padding: 0.5em;
+}
+article div p {
+  text-indent: 3em;
+  font: 1.25em "Hoefler Text", Caslon, Mirza, Merriweather, "PT Serif", Georgia, serif;
 }
 footer {
   border: 0.2em solid black;
