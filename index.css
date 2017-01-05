@@ -47,19 +47,19 @@ footer {
   margin: 1em;
   text-align: center;
 }
-footer ul a {
+footer * a {
   text-decoration: none;
 }
-footer ul a:link {
+footer * a:link {
   color: darkblue;
 }
-footer ul a:visited {
+footer * a:visited {
   color: purple;
 }
-footer ul a:hover {
+footer * a:hover {
   text-decoration: underline;
 }
-footer ul a:active {
+footer * a:active {
   color: purple;
   text-decoration: underline;
 }
